@@ -1,0 +1,12 @@
+{
+  "name": "softzenit-it-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello welcome to zenith "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
